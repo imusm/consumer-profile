@@ -1,0 +1,19 @@
+.login_container-2 {
+  background-color: #f4fafd;
+  background-image: url("bg-sign-up-cover.jpeg");
+  
+}
+.login_container_img {
+  width: 300px;
+  height: 300px;
+}
+.form-container {
+  width: 100%;
+  padding-top: 20% !important;
+  padding: 8%;
+}
+@media only screen and (max-width: 1000px) {
+  .login_container-2 {
+    display: none;
+  }
+}
